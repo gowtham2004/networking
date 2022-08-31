@@ -1,7 +1,38 @@
 {
   "data" : {
-  "mathanrajm2003@gmail.com":["mathan~2003","https://raw.githubusercontent.com/gowtham2004/user/main/mathan.json"],
-  "thejasbaghavanth@gmail.com":["thej~2004","https://raw.githubusercontent.com/gowtham2004/user/main/thejas.json"],
-  "spideysundar2004@gmail.com":["hema~2004","https://raw.githubusercontent.com/gowtham2004/user/main/hemasundar.json"]
+  "mathanrajm2003@gmail.com":
+    ["mathan~2003",
+    "MATHAN RAJ M",
+     "19",
+     "PYTHON,C,C++,FLUTTER,KOTLIN,JAVA,HTML,CSS,JAVASCRIPT",
+     "FRONT END DEVELOPER IN JAVA MOBILE APP DEVELOPMENT",
+     "https://github.com/gowtham2004/user/blob/main/mathan.jpg?raw=true",
+     "B.E COMPUTER SCIENCE ENGINNERING",
+     "CHETTINAD COLLEGE OF ENGINEERING AND  TECHNOLOGY"                         
+     ],
+    
+  "thejasbaghavanth@gmail.com":
+    ["thej~2004",
+    "THEJAS BAGHAVANTH G",
+     "18",
+     "PYTHON,C,C++",
+     "EXPERT IN LOGICAL PROBLEM SOLVING BY PYTHON",
+     "https://github.com/gowtham2004/user/blob/main/thejas.jpg?raw=true",
+     "B.E COMPUTER SCIENCE ENGINNERING",
+     "CHETTINAD COLLEGE OF ENGINEERING AND  TECHNOLOGY"
+    ],
+  
+  "spideysundar2004@gmail.com":
+    ["hema~2004",
+     "HEMASUNDAR",
+     "18",
+     "PYTHON,C,C++,FLUTTER,KOTLIN,R",
+     "FRONT END DEVELOPER IN FLUTTER MOBILE APP DEVELOPMENT",
+     "https://github.com/gowtham2004/user/blob/main/hemasundar.jpg?raw=true",
+     "B.E COMPUTER SCIENCE ENGINNERING",
+     "CHETTINAD COLLEGE OF ENGINEERING AND  TECHNOLOGY"
+    ]
+                               
+                               ]
 }
 }
