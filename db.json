@@ -1,3 +1,20 @@
-{
-  "data": {"spideysundar2004@gmail.com":"sundar2004","mathanrajm2003@gmail.com":"rajmathan03"}
-}
+[
+  {
+    "id": "mathan~2003",
+    "first_name": "mathan raj",
+    "last_name": "M",
+    "email": "mathanrajm2003@gmail.com"
+  },
+  {
+    "id": "thejas~2004",
+    "first_name": "thejas",
+    "last_name": "baghavanth",
+    "email": "thejasbaghavanth@gmail.com"
+  },
+  {
+    "id": "gowtham~2004",
+    "first_name": "hemasundar",
+    "last_name": "u",
+    "email": "spideysundar2004@gmail.com"
+  }
+]
